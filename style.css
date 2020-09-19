@@ -1,0 +1,43 @@
+
+
+header{
+    background-color: #242323;
+    
+}
+
+header a{
+    color: white;
+}
+
+body{
+    background-color: #2e2d2d;
+}
+
+footer{
+    color: white;
+    margin-top: 40px;
+    background-color: #242323;
+    height: 150px;
+    padding: 30px;
+}
+
+#portada{
+    width: 100%;
+    height: 100%;
+}
+
+#repertorio{
+    width: 98%;
+    background-color: #242323;
+    margin: auto;
+}
+
+#fotopeque{
+    width: 90%;
+    height: 90%;
+}
+
+#repertorio .row{
+    margin-top: 5px;
+    margin-left: 20px;
+}
